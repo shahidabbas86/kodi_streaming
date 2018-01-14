@@ -44,8 +44,6 @@ http://130.185.144.63:8000/live/pakistan/pakistan/39.ts
 http://130.185.144.63:8000/live/pakistan/pakistan/1101.ts
 #EXTINF:-1,PK - CITY 42
 http://130.185.144.63:8000/live/pakistan/pakistan/13.ts
-#EXTINF:-1,PK - MADINA
-http://130.185.144.63:8000/live/pakistan/pakistan/46.ts
 #EXTINF:-1,PK - CHANNEL 5
 http://130.185.144.63:8000/live/pakistan/pakistan/1081.ts
 #EXTINF:-1,PK - KHYBER NEWS
@@ -166,3 +164,5 @@ http://130.185.144.63:8000/live/pakistan/pakistan/1016.ts
 http://130.185.144.63:8000/live/pakistan/pakistan/42.ts
 #EXTINF:-1,PK - PASHTO 1
 http://130.185.144.63:8000/live/pakistan/pakistan/34.ts
+#EXTINF:-1,PK - MADINA
+http://130.185.144.63:8000/live/pakistan/pakistan/46.ts
